@@ -6,30 +6,33 @@ Welcome to my personal website! I'm **Saiful Azri**, a web developer, technology
 
 I'm passionate about building web applications and exploring new technologies. In my free time, I love reading books, playing video games, and learning new programming languages.
 
-### Skills
-- Web Development (HTML, CSS, JavaScript)
-- Backend Development (Node.js, Python)
-- Frontend Frameworks (React, Angular)
-- Databases (MySQL, MongoDB)
+## Skills
+
+- Frontend Web Development (HTML, CSS, JavaScript)
+- Backend Development (Node.js)
+- Frontend Frameworks (React)
+- Databases (PostgreSQL, MySQL)
 
 ## My Projects
 
 Here are some of the projects I've worked on:
 
-- **Project 1**: A full-stack web app for task management.
-- **Project 2**: A mobile app for tracking fitness goals.
-- **Project 3**: A machine learning model for predicting stock prices.
+1. **Personal Website**: A portfolio website showcasing my skills and experience.
+2. **Client Contacts**: A gym member/client contact management (address book).
+3. **Workout Routine** / **Fitness Tracker**: A full-stack web app (task management).
+4. **Healthy List**: A list of healthy foods (information API).
 
+## Design
 
-## Figma Design
+### Figma
+
 [Figma link](https://www.figma.com/design/OJq6rDBbQEDs2uZy7rfwuh/saifulazri.com?node-id=0-1&t=4bOQwMnMfq2qkuPS-1)
 
-![Image Name](images/test.png)
+### Screenshots
 
+![Home Page](images/home.png)
 
 ## Contact Me
-- Email: [boysas09@gmail.com](mailto:saifulazri@example.com)
-- LinkedIn: [Saiful Azri Siregar](https://www.linkedin.com/in/saifulazrisiregar/)
 
-# saifulazri.com# azri0603
-# Azri0703
+- Email: [saifulazrisiregar@gmail.com](mailto:saifulazrisiregar@example.com)
+- LinkedIn: [Saiful Azri Siregar](https://www.linkedin.com/in/saifulazrisiregar/)
