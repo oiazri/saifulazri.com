@@ -1,3 +1,9 @@
 body {
-    font-family: sans-serif;
+  font-family: sans-serif;
+}
+
+.photo {
+  height: 300px;
+  width: 260px;
+  border-radius: 100px;
 }
