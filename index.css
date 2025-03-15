@@ -1,5 +1,33 @@
 body {
+  margin: 0;
   font-family: sans-serif;
+}
+
+.navbar {
+  background-color: #9e799b;
+  padding: 5px 20px;
+  color: #fff;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  text-transform: uppercase;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navlinks {
+  display: flex;
+  gap: 20px;
+  padding: 0;
+  list-style: none;
+  font-weight: bold;
 }
 
 .photo {
