@@ -13,6 +13,10 @@ body {
   align-items: center;
 }
 
+button {
+  cursor: pointer;
+}
+
 .logo {
   text-transform: uppercase;
 }
@@ -31,7 +35,7 @@ body {
 }
 
 .photo {
-  height: 300px;
-  width: 260px;
+  height: 698px;
+  width: 465px;
   border-radius: 100px;
 }
