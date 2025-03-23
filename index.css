@@ -3,6 +3,11 @@ body {
   font-family: sans-serif;
 }
 
+.site-content {
+  margin: 0 auto;
+  max-width: 720px;
+}
+
 .navbar {
   background-color: #9e799b;
   padding: 5px 20px;
@@ -13,8 +18,18 @@ body {
   align-items: center;
 }
 
-button {
+.buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.button {
   cursor: pointer;
+  background-color: purple;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
 }
 
 .logo {
@@ -35,7 +50,6 @@ button {
 }
 
 .photo {
-  height: 698px;
-  width: 465px;
+  height: 400px;
   border-radius: 100px;
 }
