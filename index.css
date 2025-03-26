@@ -5,12 +5,8 @@ body {
 
 .navbar {
   background-color: #9e799b;
-  padding: 5px 20px;
-  color: #fff;
-
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  margin: 0px;
+  height: 50px;
 }
 
 button {
@@ -22,20 +18,51 @@ button {
 }
 
 .navbar a {
-  color: #fff;
+  color: black;
   text-decoration: none;
+  float: right;
+  height: 100px;
+  float: right;
 }
 
 .navlinks {
   display: flex;
   gap: 20px;
-  padding: 0;
+  padding: 5px;
   list-style: none;
   font-weight: bold;
+  float: right;
 }
 
 .photo {
-  height: 698px;
-  width: 465px;
+  height: 680px;
+  width: 450px;
   border-radius: 100px;
+}
+
+.container {
+  background-color: #fff;
+  display: flex;
+}
+
+.container-foto {
+  background-color: #9e799b;
+  width: 465px;
+}
+
+.container-artikel {
+  padding: 20px;
+  margin: 20px;
+}
+
+p {
+  float: right;
+}
+
+button {
+  float: right;
+}
+
+footer {
+  float: left;
 }
